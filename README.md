@@ -28,7 +28,7 @@ Você pode baixar os arquivos diretamente do site do TSE:
   https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2024.zip
 
 - **Votação por seção** (substitua `AC` pela sigla do estado desejado):  
-  https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AC.zip)
+  https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2024_AC.zip
 
 Depois de extrair os arquivos `.csv`, você já pode começar a brincadeira!
 
